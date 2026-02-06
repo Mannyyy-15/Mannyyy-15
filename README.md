@@ -1,36 +1,135 @@
-# 💫 About Me:
-👋 Hi, I'm Manthan Sawant!<br>🎨 I'm a passionate **Front-End Developer** from Mumbai, India. Currently, I'm pursuing a **Computer Engineering Diploma** at Kala Vidya Mandir Institute of Technology, Malad West. With a solid foundation in web design and development, I love bringing ideas to life in the browser.<br><br><br>🌐 I also have professional experience working at PSMcode.co and have created a website for Maitrin Beauty Parlour & Spa & DevShelters- Rooms|Hotels <br><br>📚 Certifications<br>- Web Design<br>- Core/Advanced Python<br>- Core/Advanced Java<br><br>I'm always excited to learn new things and collaborate on interesting projects. Let's connect and create something amazing together! 🚀
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manthan.15_) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=flat&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-
-<img src="https://raw.githubusercontent.com/Mannyyy-15/Mannyyy-15/output/snake.svg" alt="Snake animation" />
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mannyyy-15&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mannyyy-15&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mannyyy-15&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mannyyy-15&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mannyyy-15&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+<div align="center">
+  <h1>👋 Hi, I'm Manthan Sawant</h1>
+  <p><em>Creative Developer | UI/UX Enthusiast | Digital Innovator</em></p>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-d4a.pages.dev/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manthan-sawant)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthansawant2007@gmail.com)
+  
+  <p>💼 Currently working at <a href="https://github.com/psmcodes">@psmcodes</a></p>
+  <p>🌟 Passionate about web design, development, and exploring the digital universe</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mannyyy-15&icon=10&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
-<!---
-Mannyyy-15/Mannyyy-15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a creative and tech-savvy developer from Pune, India, with a passion for building beautiful, functional web experiences. I blend creativity with technical expertise to craft projects that stand out. Whether it's designing sleek interfaces or developing interactive web applications, I'm always ready to try new digital experiences and make projects shine.
+
+- 🎨 **Design Enthusiast**: Regular on Awwwards, Dribbble, and Behance for inspiration
+- 💻 **Active Learner**: Constantly exploring CodePen and attending tech events
+- 🎯 **Goal-Oriented**: Love turning ideas into reality with clean code and stunning designs
+- 🌐 **Portfolio**: Check out my work at [portfolio-d4a.pages.dev](https://portfolio-d4a.pages.dev/)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Mobile Development
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 3D & Graphics
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### 🎨 [Personal Portfolio](https://github.com/Mannyyy-15/portfolio)
+> Interactive portfolio website showcasing my work and skills
+- **Live Demo**: [portfolio-d4a.pages.dev](https://portfolio-d4a.pages.dev/)
+- **Tech**: JavaScript, HTML, CSS
+- **Features**: Responsive design, smooth animations, project showcase
+
+### 🌐 [Apex Gum](https://github.com/Mannyyy-15/apex-gum)
+> Modern web application with clean UI/UX
+- **Tech**: HTML, CSS, JavaScript
+- **Status**: Recently updated with 1 fork
+
+### 🎨 [Riya Portfolio](https://github.com/Mannyyy-15/Riya-Portfolio)
+> Custom portfolio website design and development
+- **Live Demo**: [riyagupta-pi.vercel.app](https://riyagupta-pi.vercel.app)
+- **Tech**: HTML, CSS, JavaScript
+
+### 🎮 [3D Model Colorizer](https://github.com/Mannyyy-15/3d-Model-Colorizer)
+> Interactive 3D model visualization and color customization tool
+- **Live Demo**: [3d-model-colorizer.vercel.app](https://3d-model-colorizer.vercel.app)
+- **Tech**: JavaScript, Three.js
+- **Features**: Real-time 3D rendering, color manipulation
+
+### 🎵 [The Unknown Band](https://github.com/Mannyyy-15/theunknownband)
+> Band website with modern design aesthetics
+- **Live Demo**: [theunknownband.netlify.app](https://theunknownband.netlify.app/)
+- **Tech**: JavaScript, HTML, CSS
+
+### 📱 Group Track (Flutter)
+> Mobile application for group location tracking
+- **Tech**: Dart, Flutter
+- **Type**: Private repository
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mannyyy-15&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mannyyy-15&theme=radical&hide_border=true" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mannyyy-15&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 What I'm Up To
+
+- 🔭 Currently working on innovative web projects at **@psmcodes**
+- 🌱 Learning advanced React patterns and Flutter development
+- 👯 Looking to collaborate on creative web design and development projects
+- 💬 Ask me about **Web Design, UI/UX, JavaScript, Flutter**
+- ⚡ Fun fact: I blend creativity with code to make digital experiences memorable
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Contribute to more open-source projects
+- [ ] Master advanced animations and interactions
+- [ ] Build and launch 3 major web applications
+- [ ] Expand mobile development portfolio with Flutter
+- [ ] Mentor aspiring developers
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to interesting conversations and collaboration opportunities!
+
+- 💼 Portfolio: [portfolio-d4a.pages.dev](https://portfolio-d4a.pages.dev/)
+- 📧 Email: [manthansawant2007@gmail.com](mailto:manthansawant2007@gmail.com)
+- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 💼 LinkedIn: [Manthan Sawant](https://linkedin.com/in/manthan-sawant)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mannyyy-15&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  
+  <p><strong>✨ "Code is like humor. When you have to explain it, it's bad." ✨</strong></p>
+  
+  <p>Made with ❤️ by Manthan Sawant</p>
+</div>
