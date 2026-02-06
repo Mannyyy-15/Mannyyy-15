@@ -121,7 +121,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 - 💼 Portfolio: [portfolio-d4a.pages.dev](https://portfolio-d4a.pages.dev/)
 - 📧 Email: [manthansawant2007@gmail.com](mailto:manthansawant2007@gmail.com)
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
 - 💼 LinkedIn: [Manthan Sawant](https://linkedin.com/in/manthan-sawant)
 
 ---
