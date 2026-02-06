@@ -6,7 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manthan-sawant)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manthansawant2007@gmail.com)
   
-  <p>💼 Currently working at <a href="https://github.com/psmcodes">@psmcodes</a></p>
+  <p>💼 Currently working as Front-end Developer</p>
   <p>🌟 Passionate about web design, development, and exploring the digital universe</p>
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a creative and tech-savvy developer from Pune, India, with a passion for building beautiful, functional web experiences. I blend creativity with technical expertise to craft projects that stand out. Whether it's designing sleek interfaces or developing interactive web applications, I'm always ready to try new digital experiences and make projects shine.
+I'm a creative and tech-savvy developer from Mumbai, India, with a passion for building beautiful, functional web experiences. I blend creativity with technical expertise to craft projects that stand out. Whether it's designing sleek interfaces or developing interactive web applications, I'm always ready to try new digital experiences and make projects shine.
 
 - 🎨 **Design Enthusiast**: Regular on Awwwards, Dribbble, and Behance for inspiration
 - 💻 **Active Learner**: Constantly exploring CodePen and attending tech events
